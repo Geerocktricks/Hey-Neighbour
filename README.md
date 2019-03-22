@@ -10,7 +10,7 @@ Deployed application
 ## Creating virtual environment
 8 python3.6 -m venv virtual
 ## Running the server
-* ./start.sh
+* python3.6 manage.py runserver
 
 Clone Repository
 https://github.com/Geerocktricks/Hey-Neighbour.git
